@@ -19,5 +19,5 @@ Welcome to my GitHub profile! I'm an aspiring **Full-Stack Web Developer** passi
 - Practicing problem-solving and algorithmic thinking.
 
 ## 📫 Connect with Me
-- GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
-- LinkedIn: [YourLinkedInProfile](#)
+- GitHub: [Djordje Kuzmanovic](https://github.com/DjordjeKuzmanovic1)
+- Email: djordje.kuzmanovic289@gmail.com
